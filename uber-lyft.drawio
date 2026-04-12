@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="5fF05frrcavce0Bz5qXb">
+        <mxGraphModel dx="1057" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="aqMpkzwu4reBolAVaPRd-1" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Functional Reqs&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;1. request for cabs (fare)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;2. book a ride (nearby drivers)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;3. drivers should be able to accept the ride&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;---------------- not in scope&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;4. reviews and ratings&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;5. change in destination&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;6. types of cabs&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#C9C9C9;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="80" width="310" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="aqMpkzwu4reBolAVaPRd-2" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Non-functional reqs&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;1. Low latency - location updates should be in real time&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;2. consistency - ensure that only 1 driver is matched to a rider (so that no 2 or more drivers contend for a ride)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;3. scalability - able to handle spikes in traffic (during and cricket match, event etc)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;4. availability - service should always show if they can cater the ride or inform if there are no drivers&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#C9C9C9;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="80" width="360" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="aqMpkzwu4reBolAVaPRd-3" value="Uber/Lyft - ride platform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="20" width="300" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
